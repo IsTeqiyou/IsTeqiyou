@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taqiy</h1>
-<h3 align="center">I want to be a doctor, bismillahn</h3>
+<h3 align="center">I want to be a doctor, bismillah</h3>
 <img align="right" src="Screenshot_2024-09-20_102610-removebg-preview-fotor-bg-remover-20241009114529-z_Z_4pTdm-transformed.png" alt="coding" width="400">
 - 🌱 Currently I am a **student of the Tahfidz plus Abudzar Islamic boarding school**
 
