@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taqiy</h1>
 <h3 align="center">I want to be a doctor, bismillah</h3>
-<img align="right" src="https://w7.pngwing.com/pngs/145/763/png-transparent-figma-alt-macos-bigsur-icon.png" alt="coding" width="400">
+<img align="right" src="https://abudzar.sch.id/images/abudzar/logo/logo.png" alt="coding" width="400">
 - 🌱 Currently I am a **student of the Tahfidz plus Abudzar Islamic boarding school**
 
 
