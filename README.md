@@ -13,6 +13,6 @@
 
 
 ###
-<img src="https://raw.githubusercontent.com/MuhammadFirmanAzhary/MuhammadFirmanAzhary/output/snake.svg" alt="Snake animation" />
+<img src="https://app.lottiefiles.com/animation/a6b99309-8917-40cf-8054-7e73a12462b0?channel=web&source=public-animation&panel=download" alt="Snake animation" />
 
 
