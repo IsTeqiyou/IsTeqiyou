@@ -1,8 +1,8 @@
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 <h1 align="center">Hi there, I'am Taqy</h1>
 <h3 align="center">I want to be a Progammer, bismillah</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Gapur/Gapur/refs/heads/main/assets/coding.gif" style="border-radius: 10px;">
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 Currently I am a **student of the Tahfidz plus Abudzar Islamic boarding school**
 - 📫 How to reach me **taqiyuddin2011@student.abudzar.sch.id**
