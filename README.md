@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://nayobaez.com)
+
 <h1 align="center">Hi there, I'am Taqy</h1>
 <h3 align="center">I want to be a Progammer, bismillah</h3>
 
