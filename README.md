@@ -1,7 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100"/>
- <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100"/>
 <h1 align="center">Hi there, I'am Taqy</h1>
 <h3 align="center">I want to be a Progammer, bismillah</h3>
 
