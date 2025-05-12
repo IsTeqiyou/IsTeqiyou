@@ -13,6 +13,4 @@
 </div>
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsTeqiyou&layout=compact&theme=radical)
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
