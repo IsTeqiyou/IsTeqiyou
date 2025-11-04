@@ -1,6 +1,5 @@
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100"/>
 <h1 align="center">What are you doing on my account?!</h1>
 <h3 align="center">You shouldn’t be on this account if it’s not yours💢GET OUT🤬!</h3>
 
